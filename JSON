@@ -485,4 +485,934 @@
 
   "Discussion Question": ""
 }
+{
+  "Strategy Name": "Leave It to Me",
 
+  "Source": "Short, K., Harste, J., and Burke, C. (1996). Creating Classrooms for Authors and Inquirers, 2nd edition. Portsmouth, NM: Heinemann Publishers.",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Accessing Background Knowledge", "Monitoring Comprehension", "Determining What's Important", "Making Inferences"],
+    "After Reading": ["Visualizing", "Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Create groups of 4-6 students.",
+    "2": "Students read individually and highlight 2-3 important ideas.",
+    "3": "One student reads aloud one highlighted statement or phrase, without commenting.",
+    "4": "Group members comment in round-robin fashion about the chosen section.",
+    "5": "The initial person who identified the section has the final word to share his or her thinking.",
+    "6": "Repeat the pattern around the table to ensure all have an opportunity to share."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Microscope",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Accessing Background Knowledge"],
+    "During Reading": ["Monitoring Comprehension", "Determining What's Important", "Making Inferences"],
+    "After Reading": ["Visualizing", "Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Introduce the purpose of reading the text and the purpose for using the Microscope strategy with the students.",
+    "2": "Model your own thinking processes by thinking aloud using the categories provided.",
+    "3": "Using the graphic organizer, have students articulate their thinking about how they process words or ideas as they read by reflecting during and/or after reading.",
+    "4": "Have students reflect on which microscope strategy they have used before, or which one they might use the most.",
+    "5": "Continue to model and articulate your thinking when using other material with students, using ideas or variations from Microscope."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "PAWs",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Accessing Background Knowledge", "Making Connections"],
+    "During Reading": [],
+    "After Reading": ["Synthesizing and Evaluating"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": false,
+    "After Reading": false
+  },
+
+  "Steps": {
+    "1": "Find pictures or photographs and artifacts that relate to the theme or topic being studied, and prepare key word sheets that connect to the topic.",
+    "2": "Arrange students into groups of three, distribute one picture, one artifact, and one word to each group.",
+    "3": "Students select one item to which they wish to respond.",
+    "4": "On the graphic organizer, students record their thinking and connections (text to self, text to text, and text to world).",
+    "5": "Students discuss their selection and their responses.",
+    "6": "In the 'S' section of the organizer, students synthesize their discussion and record one thought to share with the class."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Personality Profiles",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Accessing Background Knowledge", "Making Inferences"],
+    "During Reading": [],
+    "After Reading": ["Visualizing", "Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": false,
+    "After Reading": false
+  },
+
+  "Steps": {
+    "1": "Make overheads of six images for the activity.",
+    "2": "Explain that each image will be shown for a short time and students should write down one word that explains that person's personality.",
+    "3": "Ask students to share their thinking for one or two images with a partner, and to be metacognitive about their thinking process.",
+    "4": "Debrief the activity, emphasizing the importance of using both background knowledge and clues from the image (or text) to make accurate inferences."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Place Mat",
+
+  "Source": "Bennett, B., & Rolheiser, C., Beyond Monet: The Artful Science of Instructional Integration, Bookation Inc., 2001, Toronto, ON. ISBN 0-9695383-3-9.",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose"],
+    "During Reading": ["Accessing Background Knowledge", "Monitoring Comprehension", "Determining What's Important"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Create groups of 3, 4 or 5 students.",
+    "2": "Hand out large sheets of paper (one per group).",
+    "3": "Students section their paper to equal the number of people in their group. Each person in the group claims one section of the paper.",
+    "4": "Set the purpose for the activity, such as to read and determine important ideas or to find examples that support a big idea.",
+    "5": "Students read the material and jot notes on their section of the mat.",
+    "6": "Each person shares what he or she wrote with the group.",
+    "7": "Groups decide on the most significant ideas and write these in the center of the mat.",
+    "8": "Bring the class together and groups report their findings."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Postcards From My Mind",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Determining What's Important", "Making Inferences", "Visualizing"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": false,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Students read the text (such as a chapter section, diagram, timeline, chart, or excerpt from a novel).",
+    "2": "Students imagine an event or scene connected to the text and choose an individual or group of individuals to write a postcard to.",
+    "3": "Students decide on their roles for writing the postcard.",
+    "4": "On one side of the postcard, students write about important information from the text and their personal response to it.",
+    "5": "On the other side of the postcard, students draw a visual that complements their written words and summarizes the ideas presented in the text."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Predicting",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": ["Monitoring Comprehension"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": false,
+    "After Reading": false
+  },
+
+  "Steps": {
+    "1": "Ask students to skim the reading material and to pay attention to text features like headings, pictures, captions, and diagrams.",
+    "2": "Students use this information to predict what they think they will learn from reading the text.",
+    "3": "Students read the material.",
+    "4": "Discuss the accuracy of students’ predictions and the new information they learned."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "The Pre-Reading Plan (PreP)",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": [],
+    "After Reading": []
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": false,
+    "After Reading": false
+  },
+
+  "Steps": {
+    "1": "Making Initial Associations: Select a key concept from the reading and start a discussion with a related word, phrase, or picture.",
+    "2": "Reflecting on Initial Associations: Ask reflective questions to encourage students to interact in small groups and build on their background knowledge.",
+    "3": "Reformulating Knowledge: Prompt students to reformulate their knowledge based on the discussion."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Prove It!",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Determining What's Important", "Making Inferences"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Students read the text.",
+    "2": "Provide students with quotations from the text that contain implicit information.",
+    "3": "In small groups, students make inferences about each quotation.",
+    "4": "Students prove their inferences with evidence from the text and explain their thinking.",
+    "5": "Once familiar with the strategy, students select their own quotations to analyze."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Q4Qs",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge", "Making Connections"],
+    "During Reading": [],
+    "After Reading": ["Synthesizing and Evaluating"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": false,
+    "After Reading": false
+  },
+
+  "Steps": {
+    "1": "Find several quotes, short articles and questions related to a common topic, each on a separate sheet of paper.",
+    "2": "Arrange students into groups of three, distribute one quote, one article, and one question to each group.",
+    "3": "Students select one to respond to, illustrating how connections and thinking differ based on background knowledge.",
+    "4": "Students record their thinking on a graphic organizer under the corresponding 'Q', 'A', or 'Q'.",
+    "5": "Group members discuss their selections and responses.",
+    "6": "In the 'S' section, students synthesize their discussion to share with the class."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Question-Answer Relationships (QAR)",
+
+  "Source": "Raphael, T.E. (1986). Teaching question-answer-relationships, revisited. The Reading Teacher, 39, 516-523.",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Accessing Background Knowledge"],
+    "During Reading": ["Monitoring Comprehension", "Determining What's Important", "Making Inferences"],
+    "After Reading": ["Visualizing", "Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Teach students the four different levels of questioning and provide models of various levels: 'Right There Questions', 'Think and Search Questions', 'Author and Me Questions', and 'On My Own Questions'.",
+    "2": "Present students with a set of questions and have them determine the type and the cognitive processes required to answer each.",
+    "3": "Read a common text.",
+    "4": "Students develop questions at various levels, locate the text that answers these questions, and write the answers."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Race Against Time",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Accessing Background Knowledge"],
+    "During Reading": [],
+    "After Reading": []
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": false,
+    "After Reading": false
+  },
+
+  "Steps": {
+    "1": "Prepare multiple sets of 10-12 true and false statements related to the reading.",
+    "2": "Introduce the activity and its purpose for triggering the cognitive process of accessing background knowledge.",
+    "3": "Form small groups of 3-4 students to discuss the statements and decide whether they are true or false within a set time limit.",
+    "4": "Students use their background knowledge to make decisions about the statements.",
+    "5": "Debrief the activity, discussing the content and the process of working together.",
+    "6": "After building background knowledge, introduce and set the purpose for the upcoming reading."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Read, Draw and Flip Riddles",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Accessing Background Knowledge"],
+    "During Reading": ["Visualizing", "Making Inferences"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "Preparation of Flip Riddles": {
+      "1": "Divide students into teams of 3.",
+      "2": "Give students a blank piece of folded paper, referred to as a flip riddle.",
+      "3": "Assign each team one section from a common piece of text.",
+      "4": "Students read and become experts on their text section.",
+      "5": "Students choose a quote from their text.",
+      "6": "Teams print the quote on the inside of their flip riddle.",
+      "7": "On the front of the flip page, students draw a picture that gives a clue for the quote they chose."
+    },
+    "Presentation of Flip Riddles": {
+      "1": "Direct students to the general section of the text for the presenting groups’ quotes.",
+      "2": "Each group presents the picture clue of the flip riddle.",
+      "3": "Other students try to figure out which quote matches the presented picture clue.",
+      "4": "When students think they know the chosen quote, they tell the class.",
+      "5": "Identify the correct quote and continue with presentations until all teams have presented."
+    },
+    "Optional": "Teams’ flip riddles may be connected to form one large flip riddle booklet that represents all of the information read in the text."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Read, Reread and Draw",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Visualizing"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Select image-rich text.",
+    "2": "Read the text aloud and have students visualize emerging images.",
+    "3": "Reread the text for students to add detail to the images.",
+    "4": "Reread again for students to flesh out details of the strongest images.",
+    "5": "On another reading, students draw the strongest image they visualized, adding the words that fed the image on their drawings.",
+    "6": "Read the text aloud once more for students to explain why they found the image strong and create a visual representation.",
+    "7": "Ensure all important images are drawn and displayed; fill in any gaps with additional drawings.",
+    "8": "Conduct a gallery walk to observe visual ideas, themes, processes, actions, colors, symbols, tones, or shapes that recur."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Ready, Set, Jet!",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": ["Determining What's Important", "Making Connections"],
+    "After Reading": ["Synthesizing and Evaluating"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Organize students into groups of four, known as their 'home group'.",
+    "2": "In their home groups, students choose one of four travel destinations related to different readings.",
+    "3": "Assign individual readings for each destination within the home groups.",
+    "4": "Students read their assigned text and jot down their thinking in the 'Pre-Travels' section of their Travel Log.",
+    "5": "Signal students to move to their 'destination' groups that share the same reading and instruct them to complete the 'At Your Destination' section of their Travel Log.",
+    "6": "After the discussion at their destinations, students return to their home group to share insights and complete the 'Back Home' section of their Travel Log."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Reciprocal Teaching",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose"],
+    "During Reading": ["Accessing Background Knowledge", "Monitoring Comprehension", "Determining What's Important", "Making Inferences", "Visualizing"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Assign a segment of text to be read silently by students.",
+    "2": "Students then ask a question about the segment, summarize the content, clarify points of difficulty, and make a prediction about the next segment.",
+    "3": "A group member is called upon to act as teacher for the next segment, leading the discussion and summarization.",
+    "4": "The role of teacher rotates around the group, continuing the practice of questioning, summarizing, clarifying, and predicting."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Revolving Qs",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Accessing Background Knowledge", "Monitoring Comprehension", "Making Inferences", "Determining What's Important"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Students read the text.",
+    "2": "Introduce the QAR (Question-Answer Relationship) framework and the different types of questions: 'Right-There', 'Think and Search', 'Author-and-Me', 'On-My-Own'.",
+    "3": "Students practice identifying different types of questions about the text.",
+    "4": "Divide students into groups and distribute different question types to each student.",
+    "5": "Students identify the question type, answer it, and create a similar question.",
+    "6": "Students pass their question to a peer for further discussion, adding more information to the first question, if necessary.",
+    "7": "When all question types have been discussed, engage in a group discussion about the reading."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "See, Wonder, Think",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Accessing Background Knowledge"],
+    "During Reading": ["Monitoring Comprehension", "Determining What's Important", "Making Inferences", "Visualizing"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": true,
+    "After Reading": false
+  },
+
+  "Steps": {
+    "1": "Model the 'see, wonder, think' process multiple times while reading aloud and sharing with students.",
+    "2": "Select an accessible text that provides enough challenge for thought and discussion.",
+    "3": "Introduce the text and its reading purpose to the students.",
+    "4": "Guide students through the reading process with a graphic organizer focusing on 'see', 'wonder', and 'think'.",
+    "5": "Pause at pre-decided points in the text for students to discuss their thinking and symbolically represent their ideas.",
+    "6": "Continue the 'see, wonder, think' modeling and articulation with other texts during read-aloud sessions."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Share the Wealth",
+
+  "Source": "Daniels, H and Steineke, N. (2004). Mini-lessons for Literature Circles. Toronto: Pearson Education.",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": ["Monitoring Comprehension", "Making Inferences", "Visualizing"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": false,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Purchase colored tokens enough for six per person.",
+    "2": "Arrange students into small groups of 4-5.",
+    "3": "Provide several short texts or statements around a common topic for groups to discuss.",
+    "4": "Distribute 6 tokens to each student for participation in the discussion.",
+    "5": "Debrief the process to help students become metacognitive about their participation.",
+    "Variations": {
+      "1": "Prepare different colors of tokens for specific contributions to the conversation.",
+      "2": "RED token for a thoughtful question.",
+      "3": "BLUE token for a response to or building on a previous statement or question.",
+      "4": "GREEN token for contributing a new, connected idea.",
+      "5": "WHITE token for validating a previous statement or opinion."
+    }
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Shooting Star",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Accessing Background Knowledge", "Determining What's Important", "Making Inferences"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Instruct students to examine the text features for headings and subheadings to identify main ideas.",
+    "2": "Students read the text.",
+    "3": "Using a graphic organizer, students identify a main idea within the organizer's star.",
+    "4": "Clarify that main ideas are comprehensive and written in students' own words, not just topics or short phrases.",
+    "5": "In the tails radiating from the star, students write supporting details for the main idea."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Shower of Stars",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Accessing Background Knowledge"],
+    "During Reading": ["Determining What's Important", "Monitoring Comprehension", "Making Inferences"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Students skim the material, focusing on headings and subheadings.",
+    "2": "Read the text with attention to text features for main ideas.",
+    "3": "Identify main ideas using a graphic organizer.",
+    "4": "Verify the accuracy of the identified main ideas by rereading sections.",
+    "5": "Detail supporting information in the tails radiating from the stars on the organizer.",
+    "6": "Write a summary of what they have read."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Single, Double, Triple, Homer",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Accessing Background Knowledge", "Monitoring Comprehension", "Determining What's Important", "Making Inferences", "Visualizing"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": false,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Teach and model four levels of questioning: First Base, Second Base, Third Base, and Homer Questions.",
+    "2": "Form groups to generate questions of increasing difficulty based on the reading material.",
+    "3": "Students write their questions and answers on paper after group discussion.",
+    "4": "Collect and categorize questions by level of difficulty.",
+    "5": "Play the game using a baseball diamond analogy to classify the difficulty of the questions and students' responses."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Spin a Clue",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": ["Monitoring Comprehension", "Determining What's Important", "Making Inferences", "Visualizing"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Introduce text to students, explaining the purpose and cognitive processes targeted.",
+    "2": "Read a portion of text aloud, thinking aloud to model cognitive processes.",
+    "3": "Use a spinner to select prompts after reading, sharing thinking with students.",
+    "4": "Students work in pairs to read, discuss, and use the spinner to facilitate discussion about their thinking."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Spy Glass",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": ["Monitoring Comprehension", "Determining What's Important", "Making Inferences", "Visualizing"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Introduce the text and explain the purpose of using the Spy Glass strategy.",
+    "2": "Model thinking processes aloud for students, using a graphic organizer.",
+    "3": {
+      "a": "Encourage students to articulate their background knowledge.",
+      "b": "Instruct students to visualize and picture the content in their minds.",
+      "c": "Guide students to make connections and deepen understanding.",
+      "d": "Facilitate students' use of background knowledge and clues to infer."
+    },
+    "4": "Discuss which aspects of the Spy Glass strategy were most beneficial to students."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "SQ4R",
+
+  "Source": "Adapted from Anderson, T.H., & Armbruster, B.B. (1984). In P.D. Pearson, R. Barr, M.L. Kamil, & P. Mosenthal (Eds.), Handbook on reading research (pp. 657-679). New York: Longman.",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": ["Monitoring Comprehension"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Survey the reading material to build or access background knowledge.",
+    "2": "Generate questions for reading based on the initial survey.",
+    "3": "Read the material to find answers to the questions.",
+    "4": "Recite the answers to the questions that were formulated.",
+    "5": "Review and monitor comprehension by reevaluating the reading material.",
+    "6": "Reflect on the learning process and what has been understood."
+  },
+
+  "Discussion Question": "Reflect – What are some significant insights gained from this learning strategy? How might reflecting on what you have learned aid in remembering and applying information in the future?"
+}
+{
+  "Strategy Name": "Sticky-Lighting",
+
+  "Source": "",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": ["Monitoring Comprehension", "Making Connections", "Visualizing"],
+    "After Reading": ["Synthesizing and Evaluating"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Set a purpose for reading by asking specific questions about the reading intention.",
+    "2": "Read the whole text without highlighting any part of it.",
+    "3": "Reread/skim and highlight information relevant to the purpose set in step 1.",
+    "4": "Write down thoughts related to the reading purpose on a different sticky note after highlighting.",
+    "5": "Place the sticky note next to the corresponding highlighted text.",
+    "6": "Continue re-reading, highlighting, and writing comments on sticky notes."
+  },
+
+  "Discussion Question": "How does integrating Sticky-Lighting as a strategy enhance your understanding and retention of the text? Discuss the benefits of actively engaging with the text beyond just highlighting."
+}
+{
+  "Strategy Name": "Take Me Out to the Ball Game",
+  "Source": "Adapted from: The Artful Science of Instructional Integration",
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": ["Monitoring Comprehension", "Making Inferences", "Visualizing", "Synthesizing and Evaluating", "Making Connections"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": true,
+    "After Reading": true
+  },
+  "Steps": {
+    "1": "Choose three related readings and make copies on three different colors of paper.",
+    "2": "Divide students into groups of three (home groups) and sign up for different sports venues.",
+    "3": "Identify each article and its sports venue on the board.",
+    "4": "Distribute different articles to each home group.",
+    "5": "In their home group, students independently read, recording main ideas and making connections.",
+    "6": "Students 'travel' from their home group to their sports venue group to discuss with peers who have the same article.",
+    "7": "Discuss the article, identifying important information and sharing new understandings, and record on the graphic organizer.",
+    "8": "Students return to their home group and share what they have learned.",
+    "9": "Students complete the graphic organizer with text to text connections and new understanding about the topic.",
+    "10": "Teacher debriefs the group process."
+  },
+  "Discussion Question": "How did talking and sharing thinking deepen your understanding of the topic?"
+}
+{
+  "Strategy Name": "Talk and Toddle",
+  "Source": "The image does not specify a source",
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": ["Monitoring Comprehension", "Making Inferences", "Visualizing", "Synthesizing and Evaluating", "Making Connections"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": true,
+    "After Reading": true
+  },
+  "Steps": {
+    "1": "Select approximately 10 quotations from the reading material and transfer each onto an index card.",
+    "2": "Organize students into small groups and distribute a complete set of index cards.",
+    "3": "Students circulate to discuss the quotations on their index cards and attempt to make sense of them.",
+    "4": "Students return to their groups to share highlights and examine their set of quotes to distill one 'big idea' or concept.",
+    "5": "Groups share their synthesized statements with the class.",
+    "6": "Groups revisit their statements to make necessary alterations, focusing on comprehension over right or wrong answers."
+  },
+  "Discussion Question": "How does engaging with the quotations and synthesizing ideas before reading enhance your understanding of the text?"
+}
+{
+  "Strategy Name": "Think Aloud",
+
+  "Source": "Not provided",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Accessing Background Knowledge", "Monitoring Comprehension", "Determining What’s Important", "Making Connections"],
+    "After Reading": []
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": false
+  },
+
+  "Steps": {
+    "1": "Select a short piece of text that will be interesting to students, and that presents some challenge for students to read independently. Make an overhead of the reading.",
+    "2": "Set a purpose for your reading and share this with students. (e.g., to make connections; to summarize; to answer a question; etc.)",
+    "3": "Explain that you are going to model your thinking and share what is going on inside your head as you read. The thinking you share will help students see what you do to help make sense of words on the page.",
+    "4": "Modelling - Read the beginning of the selected text aloud to students. As you read, pause and explain your inner conversations – your metacognitive process – so that students hear how you track your thinking. Talk aloud and jot notes on the overhead. (e.g., I think I’ll reread that section – it didn’t make sense; I’m not sure of that word in this context, but I think I will read on and see if I can figure out what this means; maybe the diagram will give me more information. Use verbs like I wonder, I think, I’m confused...)",
+    "5": "Sharing Expertise - Invite students to ‘think along’ with you and explain what you are doing as you read. Continue to read slowly while talking and jotting notes on the overhead about your thinking, and asking students to share ideas about what they observe.",
+    "6": "Collaborating - Together with students, create a list of metacognitive strategies you have used during your Think-Aloud (e.g., asked questions, reread, read on, look for clues in text features, etc.). In this way, students can easily refer to the list as they practice being metacognitive. Start small, and keep adding to the list over time, otherwise the process will be overwhelming for students.",
+    "7": "Working Independently - Have students practice doing a think-aloud with a partner using a selected short piece of the text (e.g., a paragraph of information, beginning of a chapter, etc.). Have students write their thinking about their strategies using sticky notes, or margin-notes on a photocopied version of the text.",
+    "8": "Share the Learning: Have students identify other situations where they could use these same strategies.",
+    "9": ""
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Think Aloud - Making it Easy",
+
+  "Source": "Not provided",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Accessing Background Knowledge", "Monitoring Comprehension", "Determining What’s Important", "Making Inferences", "Making Connections"],
+    "During Reading": [],
+    "After Reading": []
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": false,
+    "After Reading": false
+  },
+
+  "Steps": {
+    "1": "With a partner, each choose a physical task with which you are familiar (e.g., baking bread, sending an e-mail to a group, programming a DVD player, splitting wood, snowshoeing uphill, shooting baskets, golf swing, etc.).",
+    "2": "You will each do a Think-Aloud to explain your task to each other. Imagine that the other person does not know anything about how to do the activity. (Students could tape record as they actually do the task, or write it out.)",
+    "3": "In your Think-Aloud description, first explain the purpose of the activity you have chosen, and how one needs to prepare to get started.",
+    "4": "As you describe the physical task (verbally or actually), say or write everything you think, notice, and do in order to complete the task.",
+    "5": "Take a moment to share your own reflection and evaluation on your own performance, after your Think-Aloud is completed.",
+    "6": "With your partner, discuss what can be learned about a physical task by doing a think-aloud during an activity as opposed to listening to someone else. Share your ideas with the whole group if time permits.",
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Think in Ink",
+
+  "Source": "Not provided",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Making Inferences", "Visualizing", "Synthesizing and Evaluating", "Making Connections"],
+    "After Reading": []
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Choose a piece of text that is accessible to students. Divide a blank sheet of paper into two columns. Write or type the selected text into the left hand column, and leave the right column blank. (Refer to the example, “The Hockey Sweater” for a sample layout.)",
+    "2": "Prior to reading, explain to students that one way to deepen comprehension is to record thoughts, ideas and connections in visual form. As they read, certain words or phrases (text cues) will trigger images, mental models, pictures or scenes in their head. By recording these connections, they will be transforming the information they are reading into new knowledge. Because we all bring different background knowledge and experiences to text, connections occur at different places for people; there will not be one “right” place to record thinking.",
+    "3": "Distribute the reading. Explain to students that the right hand column is space for them to “think in ink” (i.e., to sketch their thinking in images). It is important to assure students that artistic merit is unimportant in this exercise.",
+    "4": "Students share their thinking in partners or small groups.",
+    "5": "Ask students to reflect on the process: How did this process help to deepen your comprehension?",
+    "6": "Extension: Ask students to identify and code their connections: TS = Text to Self, TT = Text to Text, TW = Text to World.",
+  },
+
+  "Discussion Question": "How did this process help to deepen your comprehension?"
+}
+{
+  "Strategy Name": "Through New Eyes",
+
+  "Source": "Unknown",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Accessing Background Knowledge", "Determining What's Important"],
+    "During Reading": ["Making Inferences", "Visualizing", "Synthesizing and Evaluating", "Making Connections"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Select an issues-based informational text that allows for at least three perspectives.",
+    "2": "Explain to students they will explore different perspectives on the issue.",
+    "3": "Arrange students into groups of three to read the text twice and identify three possible roles.",
+    "4": "Re-read the text through the new perspective and record key ideas, questions, and connections on a Venn diagram.",
+    "5": "Provide time for students to read and record their thinking, then share with the group.",
+    "6": "Students synthesize their thoughts and record this in the center of the Venn diagram.",
+    "7": "Ask groups to report out to the class to discuss the issue from multiple perspectives."
+  },
+
+  "Discussion Question": "Not provided"
+}
+{
+  "Strategy Name": "Traffic Light",
+
+  "Source": "Unknown",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": ["Monitoring Comprehension", "Determining What's Important", "Making Inferences"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Choose a text that allows for generating a variety of student-generated questions.",
+    "2": "Demonstrate how to generate questions before reading and create a list.",
+    "3": "Read aloud the first section of the chosen text with students and elicit questions.",
+    "4": "Continue reading with a partner, periodically stopping to record questions.",
+    "5": "After reading, answer the questions with a partner.",
+    "6": "Use stickers in three colors to evaluate understanding of each question.",
+    "7": "Address unanswered questions through various student-directed activities.",
+    "8": "After evaluating all questions, students answer 'What did you learn about ___?'"
+  },
+
+  "Discussion Question": "Not provided"
+}
