@@ -1416,3 +1416,111 @@
 
   "Discussion Question": "Not provided"
 }
+{
+  "Strategy Name": "Two Column Notes",
+
+  "Source": "Unknown",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Determining What's Important"],
+    "After Reading": ["Monitoring Comprehension", "Making Inferences", "Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Students read the text.",
+    "2": "Students use a graphic organizer to note the topic, main ideas, and supporting details.",
+    "3": "Students summarize the main ideas."
+  },
+
+  "Discussion Question": "Not provided"
+}
+{
+  "Strategy Name": "Walk on the Wise Side",
+
+  "Source": "Unknown",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": [],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": false,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Have students reflect on 'Remember', 'Amazes Me', and 'Do It' in relation to the reading.",
+    "2": "Students walk around the room to find a partner to share one of the responses.",
+    "3": "Record the partner's name and their response on a graphic organizer.",
+    "4": "Continue sharing with partners and filling the organizer.",
+    "5": "Take time to review the responses collected.",
+    "6": "Share and discuss one classmate's response."
+  },
+
+  "Discussion Question": "Not provided"
+}
+{
+  "Strategy Name": "Webbing",
+
+  "Source": "Unknown",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": [],
+    "After Reading": []
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": false,
+    "After Reading": false
+  },
+
+  "Steps": {
+    "1": "Write the lesson's topic on the board.",
+    "2": "Students suggest terms or ideas related to the topic.",
+    "3": "Create a web on the board to organize and relate these ideas.",
+    "4": "Add any missed but necessary information to the web."
+  },
+
+  "Discussion Question": "Not provided"
+}
+{
+  "Strategy Name": "Word Smith",
+
+  "Source": "Unknown",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Accessing Background Knowledge"],
+    "During Reading": ["Monitoring Comprehension"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": false
+  },
+
+  "Steps": {
+    "1": "Select a short passage for the Word Smith strategy.",
+    "2": "Choose accessible text for teaching word skill strategies.",
+    "3": "Introduce the purpose of reading the text with a focus on strategy use.",
+    "4": "Model your own thinking processes while reading a portion of the text.",
+    "5": "Have students use a graphic organizer to become a 'word smith'.",
+    "6": "Students reflect on which Word Smith strategies they might use most.",
+    "7": "Continue to model and articulate your thinking with different materials."
+  },
+
+  "Discussion Question": "Not provided"
+}
