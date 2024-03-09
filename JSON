@@ -1,0 +1,488 @@
+{
+  "Strategy Name": "Around the World and Back Again",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": ["Monitoring Comprehension", "Determining What's Important", "Making Inferences", "Visualizing"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "In preparation, choose three related readings connected to a common topic. Make copies on three different colours of paper.",
+    "2": "Divide students into groups of three (their 'home group').",
+    "3": "Inform students that they are going on a 'trip' to learn new information about the topic. Each group member chooses a different travel destination.",
+    "4": "Assign each 'home group' member one of the three readings.",
+    "5": "Students travel to their destination by finding two other students (their 'world partners') who have the same reading as they do.",
+    "6": "With their 'world partners', students read and discuss the text, identifying important information, and sharing new understandings. Students record information on the graphic organizer.",
+    "7": "Students write a summary and plan how they are going to teach their new learning in their 'home group'.",
+    "8": "Students return to their 'home group' and each member shares with the others what they have learned.",
+    "9": "As a class, students share travel stories. Teacher debriefs the group process: How did talking and sharing deepen their understanding of the topic?"
+  },
+
+  "Discussion Question": "How did talking and sharing deepen their understanding of the topic?"
+}
+{
+  "Strategy Name": "Artifact Dig",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Visualizing"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": false,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "In preparation, before the class begins, select a number of artifacts that represent various aspects of the content in the reading material.",
+    "2": "During the lesson, organize students into small groups of 4 to 6. Each group sends a representative to 'dig' through the collection of artifacts and to select one.",
+    "3": "Groups summarize the reading material and make connections between their artifacts and the content of material they read.",
+    "4": "Groups share their artifacts, summaries and connections with the class."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Brain Chain",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Making Inferences", "Visualizing"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Prepare a statement for student response.",
+    "2": "Hand out 6 precut strips (links) of paper to each student or use a graphic organizer.",
+    "3": "Link 1 - students record the statement.",
+    "4": "Link 2 - students write their opinion of the statement.",
+    "5": "Students read a short piece of text based on the topic in the statement.",
+    "6": "Link 3 - students may refine their thinking and revise their original opinion.",
+    "7": "Students listen to a partner’s opinion of the statement.",
+    "8": "Link 4 - students may refine their thinking and revise their opinion.",
+    "9": "Students read a second short piece of text or examine a picture based on the topic in the statement.",
+    "10": "Link 5 - students may refine their thinking and revise their opinion.",
+    "11": "Finally, students look back at the statement and their original opinion to determine whether they have changed their minds regarding its position.",
+    "12": "Link 6 - students write their final thinking. It may be similar to their original opinion but should show evidence of synthesis and evaluation.",
+    "13": "Students may share their original opinion and then discuss their new thinking.",
+    "14": "Links are fastened together into a chain. Students may share their brain chain with classmates."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Chat and Chew",
+
+  "Source": "Harste, J.C., Short, K.C., and Burke, C. (1988). Creating Classrooms for Authors: The Reading-Writing Connection. Portsmouth, NH: Heinemann Publishers.",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Monitoring Comprehension", "Making Inferences"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Partners silently read the text to a chosen stopping point.",
+    "2": "Both partners take turns and 'chat' about their thinking and learning.",
+    "3": "Continue the process until the selection is completed.",
+    "4": "The whole group engages in discussion to reflect on their use of Chat and Chew."
+  },
+
+  "Discussion Question": "How does Chat and Chew change how you read? What comments are the easiest to make? The most difficult to make? What do you need to do to make your comments more powerful?"
+}
+{
+  "Strategy Name": "Clock Partners",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose"],
+    "During Reading": ["Visualizing"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Distribute appointment organizers to students. Each student makes 4 appointments with 4 different students.",
+    "2": "Students record the names of their partners on their organizers.",
+    "3": "At specific times throughout the reading, topic of study, or school day, students meet with their clock partners.",
+    "4": "During the meeting times, teachers may have students either record ideas or simply listen to their partner’s thinking (which may occur before, during and/or after reading).",
+    "5": "Teachers might choose to extend these student interactions in a variety of ways."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Cut the Deck",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": ["Monitoring Comprehension", "Determining What's Important", "Making Inferences"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Prepare two decks of cards by separating them into four smaller piles by suit.",
+    "2": "Organise students into groups of 4-5 and distribute one pile of cards to each group. Each student takes 2 cards.",
+    "3": "Explain to students that as they read the prepared selection, they will have two different purposes, depending on the cards they draw.",
+    "4": "The card numbers symbolise different purposes for reading: 2-4 is for generating a question, 5-7 is for making a new connection, 8-10 is for identifying a main idea, and J, Q, K or Ace is for identifying something interesting that is not a main idea.",
+    "5": "Students read the assigned text, remembering their purposes while reading. Then they should record their thinking in preparation for sharing with their group.",
+    "6": "Invite students to share their thinking when all group members are ready.",
+    "7": "To debrief the activity, ask students to reflect on how this strategy helped them comprehend the text."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Dinner and a Movie",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Monitoring Comprehension", "Determining What's Important"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Introduce the topic and one article/reading passage connected to the topic.",
+    "2": "Distribute Appointment Calendars and Thinking Logs. Inform students they will be making sense of the reading material by participating in four 'social events': breakfast, lunch, dinner and a movie.",
+    "3": "Students read the article/passage independently and identify at least one important idea in the 'Key Ideas' section of their Thinking Log.",
+    "4": "Cue students to meet their first partner and discuss the article, recording information in their Thinking Logs.",
+    "5": "Lead students in a whole class discussion about the main ideas presented in the reading material and write a summary statement in their logs.",
+    "6": "Invite students to think about how they made sense of the reading material: what features of the text helped them determine what was important and how talking to others helped them understand the text."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Example/Non Example",
+
+  "Source": "Senjost, R. and S. Thiese (2001). Reading and Writing Across Content Areas. IL: SkyLight Professional Development.",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": ["Determining What's Important", "Synthesizing and Evaluating"],
+    "After Reading": ["Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Introduce an important concept to be learned.",
+    "2": "Students access background knowledge by brainstorming and generating examples and characteristics of the concept on the graphic organizer.",
+    "3": "Set a purpose for reading by asking students to read the text to locate additional examples of the concept, characteristics of the concept, and non characteristics of the concept.",
+    "4": "Students read the information and determine importance based on their targeted purpose. They record appropriate information on the graphic organizer.",
+    "5": "Students share their graphic organizers after reading. Develop a master list of the concept: the characteristics, non characteristics, examples and non examples."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Face to Face",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Determining What's Important", "Making Inferences", "Visualizing"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "In preparation, find photos or pictures of 6-8 personalities, characters, or heroes students will know.",
+    "2": "Choose an interesting, issues-based text that will evoke strong reactions.",
+    "3": "In groups of 3-4, students agree upon one personality to represent their group.",
+    "4": "As students read the text, ask them to read and think as if they were the chosen personality. They discuss and record their inferential thinking.",
+    "5": "When ready, students report out to the larger group.",
+    "6": "Debrief the process. Explain to students that to infer, they must draw on background knowledge and combine it with clues and information from text."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Get It! Puppet! Act It!",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Accessing Background Knowledge", "Monitoring Comprehension", "Determining What's Important", "Making Inferences"],
+    "After Reading": ["Visualizing", "Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Students read the text.",
+    "2": "Students identify important textual facts (if reading non-fiction) or impressive/memorable scenes (if reading fiction).",
+    "3": "Students make puppets or cutouts that symbolize both the content of the material they read and themselves as readers.",
+    "4": "Students reflect on their reading and prepare a narrative that summarizes the text and describes their thinking.",
+    "5": "Using their puppets and cutouts, students reenact their reading of the text, demonstrating the strategies they used and articulating their feelings and responses to the text."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Graphic Organizers",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Determining What's Important", "Visualizing", "Making Inferences"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Distribute selections from a text and discuss and model various ways the material can be graphically represented.",
+    "2": "Assign a passage or section of a text. Students work in pairs to make a graphic representation of the material.",
+    "3": "Compare the graphs for clarity and accuracy.",
+    "4": "After practice, assign different sections of a chapter to different pairs of students for graphic representation."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Hot Seat",
+
+  "Source": "Wilhelm, J.D., (2002). Action Strategies for Deepening Comprehension. New York, NY: Scholastic Inc.",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Accessing Background Knowledge"],
+    "During Reading": ["Determining What's Important", "Making Inferences", "Visualizing"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Prepare a scenario that includes a conflict connected to the topic being studied in class.",
+    "2": "Introduce the situation, stakeholders' roles, audience, and task to be performed.",
+    "3": "Students select one of the stakeholder roles and meet with peers who have selected the same role.",
+    "4": "To build background knowledge, students read assigned material and use the hotseat graphic organizer to identify and piece together the big ideas.",
+    "5": "In their specific role, students discuss within their group the ideas, issues, and content presented.",
+    "6": "Students anticipate interview questions that a news reporter might ask.",
+    "7": "Students decide who will sit in the hotseat and who will be the lifeline or brain.",
+    "8": "The student in the hotseat answers questions posed by the interviewer and interacts with fellow panelists—agreeing or disagreeing with the various points of view."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "I Know I Know",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": ["Monitoring Comprehension"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Using the graphic organizer, students identify the topic of the reading material in the small thought bubble.",
+    "2": "In the medium-sized thought bubble, students write notes on what they know about the topic.",
+    "3": "Students read the text.",
+    "4": "To confirm and deepen their understanding, students provide evidence of what they know about the topic in the large thought bubble."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "In the Bag",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": [],
+    "After Reading": ["Determining What's Important", "Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": false,
+    "After Reading": false
+  },
+
+  "Steps": {
+    "1": "Prior to meeting with the class, prepare several 'theme bags' in clear plastic baggies. The bags should be filled with items that have a consistent theme or 'big idea'.",
+    "2": "Explain to students that they will practice sorting and organizing the contents of a special bag you prepared.",
+    "3": "Distribute theme bags to pairs or small groups of students for sorting and organizing.",
+    "4": "Students sort the items into two categories: Important – Related to the purpose of the task and Interesting but not related to the purpose of the task.",
+    "5": "Students re-examine the items they deemed important and determine categories for these items.",
+    "6": "Using a graphic organizer, students record their thinking about the big ideas and supporting details.",
+    "7": "Students are ready to differentiate what’s important and what’s not important with text, referring to the activity on the following page ('Interesting or Important')."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "In the Bag – Advanced",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": ["Determining What's Important", "Making Inferences", "Visualizing"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": true,
+    "After Reading": false
+  },
+
+  "Steps": {
+    "1": "Prepare several 'theme bags' with consistent themes or 'big ideas' and include a few 'red herrings'.",
+    "2": "Explain to students the process of physically sorting materials in the bags.",
+    "3": "Distribute theme bags to pairs or small groups of students to identify a theme for the contents.",
+    "4": {
+      "First": "Explore the contents of the bag by removing all items and thinking about their connections.",
+      "Second": "Ask what does not seem to fit with the majority of items and synthesize the remaining items into a main theme.",
+      "Third": "Carefully explore each item and decide if it fits with the main theme and sort items into three categories: 'clearly fit the theme', 'may belong', and 'clearly do not fit the theme'.",
+      "Fourth": "Record thinking on a graphic organizer like 'Two Column Notes'."
+    },
+    "5": "Invite students to share their thinking and decisions with the class.",
+    "6": "Explain that this activity parallels the approach to note-taking with informational text using 'Two Column Notes'.",
+    "7": "Refer to the sample reading 'What is a Hurricane?' and 'Two Column Notes' for an example of what this might look like."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "Jot – Talk – Link",
+
+  "Source": "Educational Material",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": [],
+    "During Reading": ["Monitoring Comprehension", "Determining What's Important", "Making Inferences"],
+    "After Reading": ["Visualizing", "Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": false,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Prepare paper strips large enough for students to write a single sentence.",
+    "2": "Choose a common content area reading accessible to all students.",
+    "3": "Demonstrate reading a portion of the text aloud and formulate questions on a paper strip.",
+    "4": "Ask students to read the next section of the material and jot questions on paper strips.",
+    "5": "Gather students in groups to discuss their questions and ideas about the text.",
+    "6": "Each student selects one question to discuss and jots that question at the top of their own organizer.",
+    "7": "One at a time, students read their question and lead the discussion in the group, sharing their background knowledge and thinking.",
+    "8": "After all students have had an opportunity to share, synthesize the discussion into one statement and record this in the 'Link' section of the graphic organizer."
+  },
+
+  "Discussion Question": ""
+}
+{
+  "Strategy Name": "KWL (and variations)",
+
+  "Source": "Ogle, D.M. (1986). K-W-L: A teaching model that develops active reading of expository text. The Reading Teacher, 39, 564-570.",
+
+  "Cognitive Processes Targeted": {
+    "Before Reading": ["Setting a Purpose", "Accessing Background Knowledge"],
+    "During Reading": ["Determining What's Important"],
+    "After Reading": ["Synthesizing and Evaluating", "Making Connections"]
+  },
+
+  "Usage": {
+    "Before Reading": true,
+    "During Reading": true,
+    "After Reading": true
+  },
+
+  "Steps": {
+    "1": "Students brainstorm a key concept in the material to be read – the 'what we know' part of the procedure.",
+    "2": "Students list the questions and ambiguities that resulted from their brainstorming – the 'what we wonder' or 'what we want to find out' part of the procedure.",
+    "3": "Prompt students to identify the categories of information they expect the reading material to contain.",
+    "4": "Students read the text and write notes – the 'what we learned' part of the procedure.",
+    "5": "Summarize with students what has been learned, what questions remain unanswered, and what new questions have emerged."
+  },
+
+  "Discussion Question": ""
+}
+
